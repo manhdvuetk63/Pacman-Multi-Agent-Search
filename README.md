@@ -4,7 +4,8 @@
 
 * Hướng làm:
 
-    Ý tưởng nâng cấp hàm evaluationFunction() là trả về giá trị trong khoảng từ -1 đến 1 tính toán dựa trên vị trí thức ăn và vị trị trí ma gần nhất, cần gần thức ăn thì giá trị càng gần 1.
+    Ý tưởng nâng cấp hàm evaluationFunction() là sử dụng manhattan tính khoảng cách đến đồ ăn, làm tham số để tính điểm của hàm đánh giá.
+	và tính toán khoảng các đến đồ ăn và trả về giá trị min.
 
 ## Q2
 
