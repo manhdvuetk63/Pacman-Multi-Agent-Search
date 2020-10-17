@@ -1,5 +1,5 @@
 # Báo cáo P2
-[![asciicast](https://github.com/manhdvuetk63/Pacman-Multi-Agent-Search/blob/main/multiagent/video/picture_image.png)](video/result_launch_autograder.wmv)
+[![asciicast](https://github.com/manhdvuetk63/Pacman-Multi-Agent-Search/blob/main/multiagent/video/picture_image.png)](https://youtu.be/qEQeuRRlSvE)
 ## Q1
 
 * Hướng làm:
