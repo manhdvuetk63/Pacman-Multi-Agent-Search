@@ -1,10 +1,10 @@
 # Báo cáo P2
-
+[![asciicast](https://asciinema.org/a/276328.svg)](video/result_launch_autograder.wmv)
 ## Q1
 
 * Hướng làm:
 
-    Ý tưởng nâng cấp hàm evaluationFunction() là sử dụng manhattan tính khoảng cách đến đồ ăn, làm tham số để tính điểm của hàm đánh giá.
+    Ý tưởng nâng cấp hàm evaluationFunction() là sử dụng manhattan tính khoảng cách đến đồ ăn, làm tham số để tính điểm của hàm đánh giá
 	và tính toán khoảng các đến đồ ăn và trả về giá trị min.
 
 ## Q2
@@ -35,4 +35,4 @@
 
 * Hướng làm:
 
-    Ý tưởng nâng cấp hàm betterEvaluationFunction() là vẫn sử dụng một phần hàm Ý tưởng nâng cấp hàm evaluationFunction() tuy nhiên thay vì dùng giá trị -1 và 1 ta dùng -inf và inf ùng với đó là tính toán giá trị dựa trên khoảng cách đến thức ăn gần nhất, ma gần nhất và mà xa nhất cùng với các trọng số thích hợp.
+    Ý tưởng nâng cấp hàm betterEvaluationFunction() là vẫn sử dụng một phần hàm Ý tưởng nâng cấp hàm evaluationFunction() tuy nhiên thay vì dùng giá trị -1 và 1 ta dùng -inf và inf cùng với đó là tính toán giá trị dựa trên khoảng cách đến thức ăn gần nhất, ma gần nhất và mà xa nhất cùng với các trọng số thích hợp.
